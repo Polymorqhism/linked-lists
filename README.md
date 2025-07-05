@@ -1,5 +1,7 @@
 # Linked Lists
 
+implements linked lists as best as i can as a totally professional epic best programmer
+
 ## Limitations:
 please keep in mind that singly linked list functionality is at a minimum as of current and does not provide functions to manage the list
 
